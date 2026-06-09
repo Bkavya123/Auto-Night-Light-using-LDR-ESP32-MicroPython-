@@ -93,10 +93,9 @@ LDR Value: 300  → Dark   → LED ON
 
 ## 🧑‍💻 Author
 
-**Kritish Mohapatra**  
-Third Year B.Tech, Electrical Engineering  
- Focused on IoT, Embedded Systems, and MicroPython Projects  
+**Bonala Kavya**  
+Electronics and communication Engineering  
 
 ---
 
-⭐ If you like this project, give it a **star** on GitHub and follow for more IoT projects!
+⭐ If you like this project, give it a **star** on GitHub!
