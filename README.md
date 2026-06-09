@@ -14,7 +14,7 @@ Depending on the light intensity, the ESP32 decides whether to **turn the LED ON
 ---
 
 ##  Circuit Diagram
-![Circuit Diagram](Circuit_Diagram/circuit_image.png)
+![Circuit Diagram](Circuit_Diagram/<img width="3000" height="1700" alt="circuit_image" src="https://github.com/user-attachments/assets/e384281c-2ba5-4eea-80ee-eee06949fe84" />)
 
 **Voltage Divider:**
 ```
